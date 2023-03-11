@@ -3,17 +3,22 @@
 This repository is just the demonstration regarding the maturity of the code present in EXFILTRATOR-22. 
 
 
-*  UAC Bypass :
+*UAC Bypass* :
 
-1. Ripped off from https://github.com/idiotc4t/FodhelperBypassUAC .
-2. ChatGPT generated PoC : https://github.com/RixedLabs/EXFILTRATOR-22/blob/main/UAC-Bypass.cpp
+-  Ripped off from https://github.com/idiotc4t/FodhelperBypassUAC .
 
-
-* Process Enumeration & LookUpAccountSidA
-
-1. Ripped off from https://github.com/tbhaxor/WinAPI-RedBlue/blob/main/Process%20Listing/WTS%20Api/Source.cpp
+<br/>
 
 
-* Live Session VNC & Screenshot Feature.
+*Process Enumeration & LookUpAccountSidA* :
 
-1. Probably a rip off from https://github.com/ajayrandhawa/Keylogger
+- Ripped off from https://github.com/tbhaxor/WinAPI-RedBlue/blob/main/Process%20Listing/WTS%20Api/Source.cpp
+
+
+<br/>
+
+
+*Live Session VNC & Screenshot Feature* :
+
+
+-  Probably a rip off from https://github.com/ajayrandhawa/Keylogger
