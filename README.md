@@ -22,3 +22,13 @@ This repository is just the demonstration regarding the maturity of the code pre
 
 
 -  Probably a rip off from https://github.com/ajayrandhawa/Keylogger
+
+
+<br/>
+
+
+*Token Stealing & Impersonate Logged User* :
+
+- https://github.com/last-byte/hybris/tree/master/hybris.
+- https://github.com/slyd0g/PrimaryTokenTheft/blob/master/main.cpp
+- https://github.com/lab52io/StealAllTokens/blob/master/StealAllTokens/StealAllTokens.cpp
