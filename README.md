@@ -32,3 +32,11 @@ This repository is just the demonstration regarding the maturity of the code pre
 - https://github.com/last-byte/hybris/tree/master/hybris.
 - https://github.com/slyd0g/PrimaryTokenTheft/blob/master/main.cpp
 - https://github.com/lab52io/StealAllTokens/blob/master/StealAllTokens/StealAllTokens.cpp
+
+
+<br/>
+
+
+*Keylogging* :
+
+- Ripped off from https://github.com/EgeBalci/Keylogger/blob/master/Source.cpp
