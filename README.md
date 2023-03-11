@@ -12,3 +12,8 @@ This repository is just the demonstration regarding the maturity of the code pre
 * Process Enumeration & LookUpAccountSidA
 
 1. Ripped off from https://github.com/tbhaxor/WinAPI-RedBlue/blob/main/Process%20Listing/WTS%20Api/Source.cpp
+
+
+* Live Session VNC & Screenshot Feature.
+
+1. Probably a rip off from https://github.com/ajayrandhawa/Keylogger
